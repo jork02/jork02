@@ -1,5 +1,5 @@
 ## Jork 👋
-# ![https://vinvra.com](https://github.com/jork02/jork02/blob/main/J100Re.png) Hola, mi nombre es Jorge Carreño 👋
+# ![https://vinvra.com](https://github.com/jork02/jork02/blob/main/J100Re1.png) Hola, mi nombre es Jorge Carreño 👋
 ### Freelance engineer
 <!--
 **jork02/jork02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
